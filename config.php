@@ -1,5 +1,5 @@
 <?php
-define('APIKEY', 'AIzaSyB5zY2fq6YRSMxF7HwGb8rEQ8VVRxiO6ps');
+define('APIKEY', 'AIzaSyCN3v0cITd_mKG3LYPejanni2F0ySmTVZ0');
 define('GJ_CODE', 'HK');
 define('SITE_NAME', 'you2b1eclub');
 define('TITLENAME', 'you2beclub');
